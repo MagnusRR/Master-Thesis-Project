@@ -1,0 +1,7 @@
+Rule name;Rule method
+RemoveSubtitleMetadata;remove_subtitle_metadata
+Lemmatization;lemmatize_document
+Punctuation;remove_punctuation
+Numbers;remove_numbers
+Capitalization;lowercase
+Stopwords;remove_stopwords

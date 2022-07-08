@@ -1,0 +1,8 @@
+Rule name;Rule method
+RemoveSubtitleMetadata;remove_subtitle_metadata
+Punctuation;remove_punctuation
+Numbers;remove_numbers
+PoS, extra_args=({'pos': ('NOUN', 'PROPN')},);keep_pos
+Lemmatization;lemmatize_document
+Capitalization;lowercase
+Stopwords;remove_stopwords

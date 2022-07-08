@@ -1,0 +1,5 @@
+Topic stat;Value
+LDA_coherence;0.9511846454254476
+LDA_diversity;0.375
+Top2Vec_coherence;-0.2516534998973897
+Top2Vec_diversity;0.65

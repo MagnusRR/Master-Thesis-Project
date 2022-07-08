@@ -1,0 +1,7 @@
+Stat;Value
+dataset_size;999
+vocab_size;149975
+total_tokens;1825168
+avg_token_freq;12.169814969161527
+avg_token_per_doc;1826.994994994995
+avg_stopwords_per_doc;880.986986986987
