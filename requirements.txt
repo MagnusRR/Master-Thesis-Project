@@ -1,4 +1,4 @@
-gensim==4.0.1
+gensim==4.3.1
 matplotlib==3.5.1
 nltk==3.7
 numpy==1.23.0
@@ -8,4 +8,5 @@ python_dateutil==2.8.2
 setuptools==58.0.4
 spacy==3.0.5
 wordcloud==1.8.1
-~umpy==1.19.2
+numpy==1.23.0
+pyLDAvis
